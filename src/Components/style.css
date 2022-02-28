@@ -1,0 +1,24 @@
+.movie {
+  width: 200px;
+  display: inline-block;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.movie img {
+  width: 200px;
+  height: 275px;
+}
+
+.movie strong {
+  height: 100px;
+  width: 100px;
+}
+
+.movieDetail {
+  width: 20%;
+  height: 40%;
+  border: 1px solid;
+  display: inline-block;
+  margin: 10px;
+}
